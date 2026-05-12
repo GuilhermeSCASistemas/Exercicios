@@ -1,0 +1,9 @@
+langchain
+langchain-core
+langchain-community
+langchain-google-genai
+langchain-openai
+langsmith
+python-dotenv
+pyyaml
+pytest

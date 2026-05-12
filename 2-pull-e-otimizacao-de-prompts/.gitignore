@@ -1,0 +1,11 @@
+.env
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+
+# Arquivos internos do curso
+project.md
+planejamento_entrega.md
+explicacao_estudante.md
